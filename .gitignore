@@ -1,0 +1,7 @@
+node_modules
+dist/
+*.log
+src/firebase.config.ts
+deploy/
+/src/config.ts
+.idea/
